@@ -24,7 +24,7 @@ services:
     deploy:
       resources:
         limits:
-          memory: 250M
+          memory: 125M
 
   result:
     build:
